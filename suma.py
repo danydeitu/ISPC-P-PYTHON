@@ -1,4 +1,4 @@
-num1 = 25
-num2 = 40
-res = num1 + num2
+num1 = 258
+num2 = 125
+res = num1 - num2
 print(res)
