@@ -1,4 +1,4 @@
-num1 = 84
-num2 = 97
-res = num1 * num2
+num1 = 682
+num2 = 79
+res = num1 / num2
 print(res)
